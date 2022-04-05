@@ -3,6 +3,6 @@ A Big Daddy Weave Tribute Page
 
 This is my first page for my portfolio
 
-You can see this project at 
+You can see this project at https://warriorofaith94.github.io/big-daddy-weave-tribute-page/
 
 Enjoy!
